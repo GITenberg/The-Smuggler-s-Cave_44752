@@ -1,0 +1,32 @@
+_repo: The-Smuggler-s-Cave_44752
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44752-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Birmingham, George A.
+    aliases:
+    - Birmingham, G. A. (George A.)
+    - Hannay, James Owen
+    - Hannay, James O. (James Owen)
+    birthdate: 1865
+    deathdate: 1950
+    gutenberg_agent_id: '8765'
+    url: http://www.gutenberg.org/2009/agents/8765
+    wikipedia: http://en.wikipedia.org/wiki/George_A._Birmingham
+description: ''
+gutenberg_issued: '2014-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pageants -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Villages -- England -- Fiction'
+title: The Smuggler's Cave
+url: http://www.gutenberg.org/ebooks/44752
